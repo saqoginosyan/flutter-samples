@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/sargis/AndroidStudioProjects/flutter-samples/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/home/sargis/AndroidStudioProjects/flutter-samples/android/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "6,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "286,55",
+                        "endLines": "6,5",
+                        "endColumns": "37,12",
+                        "endOffsets": "319,281"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,93",
+                        "endLines": "2,6",
+                        "endColumns": "37,12",
+                        "endOffsets": "88,319"
+                    }
+                }
+            ]
+        }
+    ]
+}
